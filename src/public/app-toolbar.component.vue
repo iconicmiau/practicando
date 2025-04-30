@@ -11,7 +11,7 @@ export default {
   <pv-toolbar>
     <template #start>
       <button class="p-button p-button-text p-button-rounded" text>
-        menu
+        {{$t('menu')}}
       </button>
     </template>
     <template #end>

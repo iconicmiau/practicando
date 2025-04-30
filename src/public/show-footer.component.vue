@@ -7,11 +7,10 @@ export default {
 <template>
   <footer class="footer-container">
     <div class="footer-section">
-      <p>Copyright &copy; 2024 EduGlobal Tech LLC. All rights reserved.</p>
-    </div>
+      <p>{{ $t('footer.copyright') }}</p>    </div>
     <div class="footer-section">
       <p>
-        Developed by: u202224135 - Andrea Aponte Cruzado
+        <p>{{ $t('footer.developedBy') }}</p>
       </p>
     </div>
   </footer>
