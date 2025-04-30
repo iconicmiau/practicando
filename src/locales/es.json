@@ -1,3 +1,8 @@
 {
-  "hello": "hola"
+  "hello": "hola",
+  "menu": "menú",
+  "footer": {
+    "copyright": "Copyright © 2024 EduGlobal Tech LLC. Todos los derechos reservados.",
+    "developedBy": "Desarrollado por: u202224135 - Andrea Aponte Cruzado"
+  }
 }
